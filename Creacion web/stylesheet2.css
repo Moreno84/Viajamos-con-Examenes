@@ -1,0 +1,118 @@
+h1 {
+font-family: verdana;
+font-size: 30px;
+color:#4dffcf;
+font-weight:normal;
+text-decoration: underline;
+text-align: center;
+margin: 80px 0px 80px 0px;
+
+
+}
+
+#nav {
+
+background-color:#4dffcf;
+border-radius: 60px 60px 0px 0px;
+height: 20px;
+font-size: 20px;
+font-weight: normal;
+padding: 40px;
+font-family:verdana;
+
+}
+
+
+#nav ul{
+padding: 0;
+margin: 0;
+list-style: none;
+text-align:right;
+
+
+
+}
+
+
+#nav ul li {
+
+display: inline;
+padding: 15px;
+vertical-align: middle;
+
+}
+
+#nav a {
+
+  color: #00F;
+  padding: 8px 8px 8px 8px;
+  color: black;
+  vertical-align: middle;
+  text-decoration: none;
+}
+
+#nav a:hover{
+
+  background-color:white;
+  border-radius: 30px 30px 30px 30px;
+  color:#4dffcf;
+
+}
+
+#image{
+width: 1300px;
+height: 500px;
+margin: 50px 100px 50px 100px;
+border-radius: 30px 30px 30px 30px;
+
+
+}
+
+.header{
+font-family: verdana;
+text-decoration: underline;
+color: black;
+margin: 50px 100px 50px 100px;
+text-align: center;
+background-color: #737373;
+border-radius: 30px 30px 30px 30px;
+
+
+}
+
+
+
+.parrafo{
+
+font-family: verdana;
+font-size: 16px;
+margin: 50px 100px 50px 100px;
+
+
+}
+
+#anchor {
+
+	width: 30px;
+	height: 30px;
+	border: 3px solid #4dffcf;
+	border-radius: 10px 10px 10px 10px;	
+	margin-left: 1250px;
+	padding: 10px 10px 10px 10px;
+
+}
+
+
+#footer {
+background-color:#4dffcf;
+color: black;
+font-size: 14px;
+font-family: verdana;
+text-align: center;
+padding: 20px;
+border-radius: 0px 0px 60px 60px;
+margin: 0px;
+margin-top: 100px;
+
+}
+
